@@ -44,7 +44,7 @@ Deeper analysis combining multiple variables such as origin, destination, and ti
 
 ### Final Recommendation
 
-![Final Recommendation](screenshots/final-recommendation.png)
+Increase inbound train frequency during AM peak hours and outbound train frequency during PM peak hours to better align with commuter flow and reduce congestion across the network.
 
 **Insight:**  
 Peak congestion patterns suggest a need to increase inbound train frequency during AM peak hours and outbound frequency during PM peak hours to better align with commuter flow.
